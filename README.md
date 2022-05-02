@@ -1,23 +1,17 @@
 In this project, Python is used to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington.
 
 The source code takes in raw input from the user to create an interactive experience.
-According to the input the code will import the data and will provide information by computing descriptive statistics.
-<<<<<<< HEAD
-=======
+According to the input the code will import the data and will provide information by computing descriptive statistics
 
->>>>>>> db904e0ed8e08496df8072a9c1acd808f9ca43c7
 
-### Date created
+
+Date created
 1/5/2022
 
-### Project Title
-<<<<<<< HEAD
+Project Title
 bikeshare.py
-=======
-bikshare.py
->>>>>>> db904e0ed8e08496df8072a9c1acd808f9ca43c7
 
-### Description
+ Description
 How the program works:
 The code developed takes in raw input to create an interactive experience in the terminal that answers questions about the dataset. The experience is interactive because depending on a user's input, the answers to the questions will change! There are four questions that will change the answers:
 
@@ -67,22 +61,16 @@ User Interaction Program that explores US bike-share data provided by Motivate b
 
 
 
-### Files used
-<<<<<<< HEAD
+ Files used
 washington.csv
 chicago.csv
 new_york_city.csv
 bikeshare
 
-### Credits
+ Credits
 Richard Kalehoff (Udacity mentor)
-=======
-bikeshare
-washington.csv
-chicago.csv
-new_york_city.csv
 
-### Credits
+Credits
 Juno Lee (Udacity Mentor)
 
 https://github.com/junolee
@@ -93,12 +81,3 @@ Richard Kalehoff (Udacity mentor)
 https://github.com/richardkalehoff
 https://twitter.com/richardkalehoff
 
-
->>>>>>> db904e0ed8e08496df8072a9c1acd808f9ca43c7
-
-https://github.com/richardkalehoff
-https://twitter.com/richardkalehoff
-Juno Lee (Udacity Mentor)
-
-https://github.com/junolee
-https://www.linkedin.com/in/junoleelj
